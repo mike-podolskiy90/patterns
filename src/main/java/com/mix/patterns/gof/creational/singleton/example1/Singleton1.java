@@ -1,4 +1,4 @@
-package com.mix.patterns.gof.behavioral.singleton.example1;
+package com.mix.patterns.gof.creational.singleton.example1;
 
 public class Singleton1 {
     private static volatile Singleton1 instance;

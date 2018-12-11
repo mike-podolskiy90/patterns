@@ -1,4 +1,4 @@
-package com.mix.patterns.gof.behavioral.prototype;
+package com.mix.patterns.gof.creational.prototype;
 
 public class PrototypeRunner {
 
